@@ -1,5 +1,5 @@
 # CMPUT 291 - Lab 1 Readme file
-Name: your-name
-CCID: your-ccid
-Lecture: your-lecture
-Lab: your-lab
+Name:Samantha Mushandu
+CCID: mushandu
+Lecture: Lec A2(51636)
+Lab: Lab D06(51896)
