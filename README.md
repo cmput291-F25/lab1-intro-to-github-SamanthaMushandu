@@ -2,4 +2,4 @@
 Name:Samantha Mushandu
 CCID: mushandu
 Lecture: Lec A2(51636)
-Lab: Lab D06(51896)
+Lab: Lab D05(51851)
